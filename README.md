@@ -5,7 +5,7 @@
 
 -![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sawadkk&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sawadkk&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sawadkk&theme=black)
 
 
 <!---
