@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sawadkk
-- 👀 react,python,django,web_devloppment.....
+- 👀 core_cs,python,javascript,react,django,web_devloppment.....
 - https://sawad.netlify.app/
 - 📫 ssawad09@gmail.com
 
